@@ -3,7 +3,7 @@
 
 > Building reliable software, fixing bugs, and shipping delightful user experiences.
 
-![Header](https://img.shields.io/badge/Status-Open%20to%20collab-brightgreen) ![TopLangs](https://img.shields.io/badge/Top%20Langs-Add%20your%20langs-blue) ![Twitter Follow](https://img.shields.io/badge/Follow-@your_handle-1DA1F2)
+![Header](https://img.shields.io/badge/Status-Open%20to%20collab-brightgreen) ![TopLangs](HTML,CSS,PHYTON,Javascript ) ![instagram Follow](https://www.instagram.com/_danishatha_04?igsh=b3JtMGhhdmQxZmtm)
 
 ---
 
