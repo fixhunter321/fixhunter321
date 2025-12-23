@@ -29,7 +29,7 @@ I design and build backend services, developer tools, and reliable integrations 
 ---
 
 ## Top skills
-- Languages: JavaScript/TypeScript, Python, Go (replace with your top languages)
+- Languages: HTML,css,phyton
 - Backend: Node.js, FastAPI, gRPC, REST
 - Infrastructure: Docker, Kubernetes, Terraform
 - Databases: PostgreSQL, Redis
