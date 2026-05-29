@@ -1,13 +1,13 @@
 # Hi, I'm Danish 👋
 
-🎓 Student (Grade 8)  
+
 💻 Currently learning programming  
 🏎️ Motorsport & engineering enthusiast  
 
 ---
 
 ## 🚀 About Me
-- Age: 13
+- Interested in AI technology
 - Interested in logic, numbers, and systems
 - Enjoy technology more than pure memorization
 - Passionate about web development and engineering
@@ -20,7 +20,8 @@
 - CSS
 - Basic JavaScript
 - Git & GitHub
-- Web Deployment (GitHub Pages, Netlify)
+- Web Deployment (GitHub Pages, Netlify,vercel)
+- cybersecurity(basic-medium)
 
 ---
 
